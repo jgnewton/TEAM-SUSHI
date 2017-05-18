@@ -1,0 +1,11 @@
+"""
+Everything which should be a globally available variable for the simulation goes here
+Thsi might not be long
+"""
+
+num_alive=0
+num_swtf=0
+cannibalized-0
+yield_mass=0.0
+
+time #at whatever increment, up to 30 days or what have you
