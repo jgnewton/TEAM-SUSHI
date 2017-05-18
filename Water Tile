@@ -1,0 +1,16 @@
+"""
+This will be the only agent in the environment unless we choose to add others
+On possibility is a hiding area for small tuna to prevent cannibalization?
+"""
+
+local_tuna=[] #the tuna which are currently residing in this tile, simple list
+
+temp=0 #degrees celsius
+
+plankton #How should be represent the plankton levels per square?
+
+other_food #rename this variable once we know what other kinds of food will be available
+
+salinity
+visibility
+
