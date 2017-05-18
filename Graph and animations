@@ -1,0 +1,5 @@
+"""
+Code will go here for creating figures and plots to illustrate our simulation findings and to possibly
+create and record live animation of the sim
+"""
+import matplotlib.pyplot as plt

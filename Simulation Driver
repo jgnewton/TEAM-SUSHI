@@ -1,0 +1,14 @@
+"""
+Here we can modify global constants for certain tests and runs
+Then using loops run the simulation as many times as we want
+If our sim is complicated and slow, we can possibly run it over night or over several days
+"""
+
+#example
+#globals= x,y,z,etc.
+
+for i in range(100)
+  r1=run sim
+results1 = N.mean(r1)
+
+Graph(results1)
