@@ -1,0 +1,10 @@
+"""
+This file will contain all global Constants, anything that will nto change throughout the simulation should go here, even 
+if we are going to modify it between runs.
+If you want to add or rename a constant or you think one should be replaced or redefined let Jeremy know, who will be in charge
+of constants for now.
+"""
+
+visibility=0
+tank_length=0
+tank_width=0
