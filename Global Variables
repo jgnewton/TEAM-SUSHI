@@ -5,7 +5,17 @@ Thsi might not be long
 
 num_alive=0
 num_swtf=0
-cannibalized-0
+cannibalized=0
+cannibalized_at_step=[]
 yield_mass=0.0
+pop_density=0.0
+available_food=0.0
+avg_temp=0
+
+
+"""
+simulate straining and seperation
+"""
+
 
 time #at whatever increment, up to 30 days or what have you
