@@ -6,6 +6,10 @@ of constants for now.
 """
 
 visibility=0
+illumination=0
+
+walls_transparent=False
+
 salinity=0
 
 tank_length=0
@@ -29,3 +33,6 @@ growth_req=[]
 
 food_v_plankton
 food_v_animal
+
+collision_death_speed=0
+collision_probability=0
