@@ -6,5 +6,26 @@ of constants for now.
 """
 
 visibility=0
+salinity=0
+
 tank_length=0
 tank_width=0
+baseline_aggression=0
+disease_infection_rate=0
+growth_step=0
+hide_space=0
+ambient_temp_night=0
+ambient_temp_day=0
+seperation_stages=[]
+space_cost=0
+food_cost_plank=0
+food_cost_animal=0
+
+starve=0
+hungry=0
+very_hungry=0
+
+growth_req=[]
+
+food_v_plankton
+food_v_animal
